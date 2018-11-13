@@ -1,0 +1,38 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 500px;
+
+}
+div {
+    max-width: 500px;
+    height: 100px;
+    margin: auto;
+
+
+    padding: 10px;
+}
+body{
+    background-color: rgb(142, 125, 144);
+    font-style: arial;
+}
+h1{
+  font-size: 68px;
+}
+h2{
+  font-size: 40px;
+}
+h3{
+  font-size: 40px;
+}
+h4{
+  font-size: 40px;
+}
+h5{
+  font-size: 40px;
+}
+h6{
+  font-size: 40px;
+}
